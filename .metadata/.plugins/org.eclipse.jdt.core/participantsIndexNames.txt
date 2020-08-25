@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/Users/yososky/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1013614730.index
+/jupiter/src/main/java
+/Users/yososky/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1318358583.index
+/juptier/src/main/java
